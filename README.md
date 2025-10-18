@@ -134,8 +134,8 @@ This means:
 ## 🙏 Acknowledgments
 
 This project is inspired by the legendary work of:
-- **AKI Corporation** - Developers of WWF No Mercy and the Virtual Pro Wrestling series
-- **The No Mercy modding community** - Years of dedication to understanding this game
+- **AKI Corporation** - Developers of WWF No Mercy, WWF WrestleMania 2000, WCW/nWo Revenge, WCW World Tour, Virtual Pro Wrestling 64, and Virtual Pro Wrestling 2.
+- **The No Mercy modding community** - Years of dedication to this game
 
 We are not affiliated with WWE, AKI Corporation, or THQ. This is a fan project created out of love for the gameplay mechanics and design principles of No Mercy.
 
