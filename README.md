@@ -87,7 +87,7 @@ Read our [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions.
 We aim to recreate No Mercy's feel as faithfully as possible. When in doubt, we defer to how No Mercy actually works.
 
 ### No Copyrighted Content
-This project will contain:
+The final game will contain:
 - ❌ No WWE/WWF characters, logos, or branding
 - ❌ No licensed music or copyrighted assets
 - ✅ Original characters, arenas, and assets
