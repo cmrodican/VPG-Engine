@@ -7,9 +7,9 @@ Thank you for your interest in contributing to VPG Engine! This project depends 
 
 Below are links to some of the tools being used for this project
 
-[https://github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)
-[https://github.com/Rosalie241/RMG](https://github.com/Rosalie241/RMG)
-[https://www.blender.org/](https://www.blender.org/)
+* [https://github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)
+* [https://github.com/Rosalie241/RMG](https://github.com/Rosalie241/RMG)
+* [https://www.blender.org/](https://www.blender.org/)
 
 
 ## 🎯 Phase 1 Goals
