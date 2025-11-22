@@ -37,66 +37,51 @@ Special grappling position when opponent is against the turnbuckles. Has unique 
 Once a grapple is initiated, the player inputs a **direction + grapple strength** combination to execute a specific move:
 
 #### Front Weak Grapple (Tap A)
-Players can execute **10 different moves** from a front weak grapple:
-* A  
-* ←/→ \+ A  
-* ↑ \+ A  
-* ↓ \+ A  
-* B  
-* ←/→ \+ B  
-* ↑ \+ B  
-* ↓ \+ B
- 
+Players can execute **8 different moves** from a front weak grapple:
+1. A  
+2. ←/→ \+ A  
+3. ↑ \+ A  
+4. ↓ \+ A  
+5. B  
+6. ←/→ \+ B  
+7. ↑ \+ B  
+8. ↓ \+ B
+
+ *Example from **The Rock**:*
+ * A = Headlock and Punch
+ * ↑ + A  = Snapmare
+ * ↓ + A = Eye Rake
+ * ←/→ + A = Neck Breaker 02
+
 #### Front Strong Grapple (Long-Press A)
-* A  
-* ←/→ + A  
-* ↑ + A  
-* ↓ + A  
-* B  
-* ←/→ + B  
-* ↑ + B  
-* ↓ + B  
-* Control Stick (Finisher)  
+Players can execute **9 different moves** from a front strong grapple:
+1. A  
+2. ←/→ + A  
+3. ↑ + A  
+4. ↓ + A  
+5. B  
+6. ←/→ + B  
+7. ↑ + B  
+8. ↓ + B  
+9. Control Stick (Finisher)  
 
 *Example from The Rock:*
-- Weak Grapple + A = Headlock and Punch
-- Weak Grapple + ↑ + A  = Snapmare
-- Weak Grapple + ↓ + A = Eye Rake
-- Weak Grapple + ←/→ + A = Neck Breaker 02
-
-#### Front Strong Grapple Moves (Hold A)
-Players can execute **10 different moves** from a front strong grapple:
-
-1. **Neutral (no direction)** + Hold A
-2. **Up** + Hold A
-3. **Down** + Hold A
-4. **Left** + Hold A
-5. **Right** + Hold A
-6. **Up + Left** + Hold A
-7. **Up + Right** + Hold A
-8. **Down + Left** + Hold A
-9. **Down + Right** + Hold A
-10. **[Additional input combination]** [NEEDS DOCUMENTATION]
-
-*Example from The Rock:*
-- Neutral + Hold A = Scoop Slam
-- Up + Hold A = Headlock Takedown
-- Down + Hold A = Suplex
-- Left/Right + Hold A = Shoulder Breaker
+* A = Scoop Slam
+* ↑ + A = Headlock Takedown
+* ↓ + A = Suplex
+* ←/→ + A = Shoulder Breaker
 
 Strong grapples typically:
 - Deal more damage
-- Have longer animations
 - Create larger reversal windows
-- Can transition to power moves
 
-#### Back Weak Grapple Moves (Tap A)
+#### Back Weak Grapple (Tap A)
 Players can execute **4 different moves** from a back weak grapple:
 
-1. **Neutral (no direction)** + Tap A
-2. **Up or Down** + Tap A
-3. **Left** + Tap A
-4. **Right** + Tap A
+1. A  
+2. ←/→/↑/↓ + A  
+3. B  
+4. ←/→/↑/↓ \+ B  
 
 *Example from The Rock:*
 - Neutral + Tap A = Falling Back Drop
