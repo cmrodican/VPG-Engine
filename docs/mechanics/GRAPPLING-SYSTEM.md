@@ -36,25 +36,33 @@ Special grappling position when opponent is against the turnbuckles. Has unique 
 
 Once a grapple is initiated, the player inputs a **direction + grapple strength** combination to execute a specific move:
 
-#### Front Weak Grapple Moves (Tap A)
+#### Front Weak Grapple (Tap A)
 Players can execute **10 different moves** from a front weak grapple:
-
-1. **Neutral (no direction)** + A
-2. **Up** + A  
-3. **Down** + A
-4. **Left** + A
-5. **Right** + A
-6. **Up + Left** + A
-7. **Up + Right** + A
-8. **Down + Left** + A
-9. **Down + Right** + A
-10. **[Additional input combination]** [NEEDS DOCUMENTATION]
+* A  
+* ←/→ \+ A  
+* ↑ \+ A  
+* ↓ \+ A  
+* B  
+* ←/→ \+ B  
+* ↑ \+ B  
+* ↓ \+ B
+ 
+#### Front Strong Grapple (Long-Press A)
+* A  
+* ←/→ + A  
+* ↑ + A  
+* ↓ + A  
+* B  
+* ←/→ + B  
+* ↑ + B  
+* ↓ + B  
+* Control Stick (Finisher)  
 
 *Example from The Rock:*
-- Neutral + Tap A = Headlock and Punch
-- Up + Tap A = Snapmare
-- Down + Tap A = Eye Rake
-- Left/Right + Tap A = Neck Breaker 02
+- Weak Grapple + A = Headlock and Punch
+- Weak Grapple + ↑ + A  = Snapmare
+- Weak Grapple + ↓ + A = Eye Rake
+- Weak Grapple + ←/→ + A = Neck Breaker 02
 
 #### Front Strong Grapple Moves (Hold A)
 Players can execute **10 different moves** from a front strong grapple:
