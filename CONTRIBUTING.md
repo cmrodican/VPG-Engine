@@ -7,6 +7,7 @@ Thank you for your interest in contributing to VPG Engine! This project depends 
 
 Below are links to some of the tools being used for this project
 
+* [https://github.com/AKI-Club/VPWStudio] (https://github.com/AKI-Club/VPWStudio) - Tool for hacking/modifying AKI Corporation's wrestling games for Nintendo 64 
 * [https://github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Web rendering engine for creating interactive web experiences.
 * [https://www.blender.org/](https://www.blender.org/) - Free and open-source 3D creation suite.
 * [https://github.com/dotGrx/AKI-Model-Blender-IO-Addon](https://github.com/dotGrx/AKI-Model-Blender-IO-Addon) - Blender importer and exporter for AKI game .model format.
