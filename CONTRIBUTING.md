@@ -172,8 +172,8 @@ If you're not comfortable with Git:
 ## 📝 Documentation Guidelines
 
 ### Be Accurate
-- Document what you observe, not what you remember
-- Test your observations multiple times
+- Document what you observe
+- Test your observations
 - Note when something is uncertain or needs verification
 
 ### Be Specific
@@ -198,20 +198,26 @@ If you're not comfortable with Git:
 
 ---
 
-## 🚫 What Not to Include
+
+
+### What You CAN Include In this early Documentation phase:
+- ✅ Descriptions of game mechanics
+- ✅ Technical measurements and timing data
+- ✅ System behavior documentation
+- ✅ Environmental measurements
+- ✅ Screenshots of menus, HUD, ring elements (no real wrestlers visible)
+- ✅ Character names, likenesses, or stats from WWE/WWF
+- ✅ Real wrestler names or branding
+- ✅ Copyrighted logos, music, or assets
+- ✅ Screenshots containing copyrighted imagery (real wrestlers, logos)
+
+The final released version of the base game may NOT include:
 
 ### No Copyrighted Content
 - ❌ Character names, likenesses, or stats from WWE/WWF
 - ❌ Real wrestler names or branding
 - ❌ Copyrighted logos, music, or assets
 - ❌ Screenshots containing copyrighted imagery (real wrestlers, logos)
-
-### What You CAN Include
-- ✅ Descriptions of game mechanics
-- ✅ Technical measurements and timing data
-- ✅ System behavior documentation
-- ✅ Environmental measurements
-- ✅ Screenshots of menus, HUD, ring elements (no real wrestlers visible)
 
 **When in doubt, ask!** Open an issue if you're unsure whether something is appropriate.
 
