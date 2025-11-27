@@ -1,0 +1,235 @@
+{
+  "Moves": {
+    "Grappling": {
+      "Front Grapple": {
+        "Front Weak Grapple": {
+          "A": [],
+          "←/→ + A": [],
+          "↑ + A": [],
+          "↓ + A": [],
+          "B": [],
+          "←/→ + B": [],
+          "↑ + B": [],
+          "↓ + B": []
+        },
+        "Front Strong Grapple": {
+          "A": [],
+          "←/→ + A": [],
+          "↑ + A": [],
+          "↓ + A": [],
+          "B": [],
+          "←/→ + B": [],
+          "↑ + B": [],
+          "↓ + B": [],
+          "Control Stick (Finisher)": []
+        },
+        "Reversals": {
+          "Front Weak Grapple Counter": [],
+          "Front Strong Grapple Counter": []
+        }
+      },
+      "Back Grapple": {
+        "Back Weak Grapple": {
+          "A": [],
+          "←/→/↑/↓ + A": [],
+          "B": [],
+          "←/→/↑/↓ + B": []
+        },
+        "Back Strong Grapple": {
+          "A": [],
+          "←/→/↑/↓ + A": [],
+          "B": [],
+          "←/→/↑/↓ + B": [],
+          "Control Stick (Finisher)": []
+        },
+        "Reversals": {
+          "Back Weak Grapple Counter": [],
+          "Back Strong Grapple Counter": []
+        }
+      }
+    },
+    "Striking": {
+      "Weak Striking (Tap B)": {
+        "Closer": {
+          "B": [],
+          "(←/→/↑/↓) + B": []
+        },
+        "Further": {
+          "B": [],
+          "(←/→/↑/↓) + B": []
+        }
+      },
+      "Strong Striking (Hold B)": {
+        "Closer": {
+          "B": [],
+          "(←/→/↑/↓) + B": [],
+          "(A + B)": [],
+          "(←/→/↑/↓) + (A + B)": []
+        },
+        "Further": {
+          "B": [],
+          "(←/→/↑/↓) + B": [],
+          "(A + B)": [],
+          "(←/→/↑/↓) + (A + B)": []
+        }
+      }
+    },
+    "Recovering Attack": {
+      "Recovering/Ducking Attack": {
+        "B": []
+      }
+    },
+    "Striking Counters": {
+      "Counter Punch": [],
+      "Special Counter Punch": [],
+      "Counter Kick (A)": [],
+      "Counter Kick (B)": [],
+      "Special Counter Kick": []
+    },
+    "Running": {
+      "Running Strike": {
+        "Run + B": [],
+        "Run + (←/→/↑/↓) + B": [],
+        "Run + (A+B)": [],
+        "Run + (←/→/↑/↓) + (A+B)": []
+      },
+      "Running Grapple": {
+        "Run + A (Front)": [],
+        "Run + A (Back)": []
+      },
+      "Running Ground Attack": {
+        "Facing Up": [],
+        "Facing Down": [],
+        "Sitting Up": [],
+        "Sitting Down": []
+      },
+      "Running Evasion": {
+        "Run + Block (R)": [],
+        "Run + Evade (L)": []
+      }
+    },
+    "Ground": {
+      "Strike (B)": {
+        "Facing Up": [],
+        "Facing Down": [],
+        "Sitting Up": [],
+        "Sitting Down": []
+      },
+      "Grapple (A)": {
+        "Facing Up": [],
+        "Facing Down": [],
+        "Sitting Up": [],
+        "Sitting Down": []
+      }
+    },
+    "Turnbuckle": {
+      "Turnbuckle Attack": {
+        "B": [],
+        "(←/→/↑/↓) + B": [],
+        "Run + B": [],
+        "Run + (A+B)": []
+      },
+      "Corner Counter": [],
+      "Tree of Woe Attack": {
+        "B": [],
+        "(←/→/↑/↓) + B": [],
+        "Run + B": []
+      },
+      "Turnbuckle Grapple": {
+        "Front Turnbuckle Grapple": {
+          "Front Weak Turnbuckle Grapple": {
+            "A": [],
+            "B": []
+          },
+          "Front Strong Turnbuckle Grapple": {
+            "A": [],
+            "B": [],
+            "Control Stick (Finisher)": []
+          }
+        },
+        "Back Turnbuckle Grapple": {
+          "Back Weak Turnbuckle Grapple": {
+            "A": [],
+            "B": []
+          },
+          "Back Strong Turnbuckle Grapple": {
+            "A": [],
+            "B": [],
+            "Control Stick (Finisher)": []
+          }
+        },
+        "Counter Turnbuckle Grapple": {
+          "Front Counter Turnbuckle Grapple": [],
+          "Back Counter Turnbuckle Grapple": []
+        }
+      },
+      "Flying Attack": {
+        "Opponent Inside Ring": {
+          "Standing Opponent": [],
+          "Laying Opponent": [],
+          "Standing Opponent (SPECIAL)": [],
+          "Laying Opponent (SPECIAL)": []
+        },
+        "Opponent Outside Ring": {
+          "Standing Opponent": [],
+          "Laying Opponent": [],
+          "Standing Opponent (SPECIAL)": [],
+          "Laying Opponent (SPECIAL)": []
+        }
+      },
+      "Bret's Rope Move": [],
+      "Turnbuckle Taunt": {
+        "Corner Taunt": [],
+        "Top Turnbuckle Taunt": []
+      }
+    },
+    "Ringside": {
+      "Grapple to Apron": {
+        "Weak Grapple": [],
+        "Strong Grapple": [],
+        "Special Grapple": [],
+        "Counter Grapple": []
+      },
+      "Rope Inside Attack": {
+        "Press A up against ropes": [],
+        "Run at ropes and press A": []
+      },
+      "Flying Attack to Outside": {
+        "A": [],
+        "Run + A": [],
+        "Run + (←/→/↑/↓) + A": []
+      },
+      "Running Diving Taunt": {
+        "Run + Control Stick": []
+      },
+      "Rebound Flying Attack": {
+        "A": []
+      }
+    },
+    "Apron": {
+      "Apron Attack": {
+        "To Inside": [],
+        "To Outside": []
+      },
+      "Grapple from Apron": {
+        "Weak Grapple from Apron": [],
+        "Strong Grapple from Apron": [],
+        "Special Grapple from Apron": [],
+        "Counter Grapple from Apron": []
+      },
+      "Flying Attack from Apron to Outside": {
+        "A": [],
+        "Run + A": []
+      },
+      "Flying Attack from Apron to Ring": {
+        "A (standing opponent)": [],
+        "A (laying opponent)": [],
+        "A (with SPECIAL)": []
+      }
+    },
+    "Irish Whip": {},
+    "Double Team": {},
+    "Walking": {}
+  }
+}
+
