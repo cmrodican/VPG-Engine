@@ -1,235 +1,222 @@
 {
   "Moves": {
+    "Standing": {
+      "Weak Striking": {
+        "Closer to Opponent": {
+          "Weak Arm Striking 1": ["(B)"],
+          "Weak Arm Striking 2": ["(←/→/↑/↓) + (B)"],
+        },
+          "Further from Opponent": {
+          "Weak Leg Striking": ["(B)"],
+          "Weak Leg Striking": ["(←/→/↑/↓) + (B)"],
+        }
+      },
+      "Strong Striking (Hold)": {
+        "Strong Striking 1": ["(B)"],
+        "Strong Striking 2": ["(←/→/↑/↓) + (B)"],
+        "Strong Striking 3": ["(A + B)"]
+      },
+      "Running Attack": {
+        "Weak Running Attack 1": ["(C-Down) + (B)"],
+        "Weak Running Attack 2": ["(C-Down) + (A + B)"],
+        "Strong Running Attack 1": ["(←/→/↑/↓) + C-Down) + (B)"],
+        "Strong Running Attack 2": ["(←/→/↑/↓) + C-Down) + (B)"]
+      },
+      "Turnbuckle": {
+        "Turnbuckle Attack 1": ["(B)"],
+        "Turnbuckle Attack 2": ["(←/→/↑/↓) + (B)"],
+        "Running Turnbuckle Attack 1": ["(C▼) + (B)"],
+        "Running Turnbuckle Attack 2": ["(C▼) + (A + sB)"],
+        "Irish Whip to Corner Counter": ["(L) or (R) + Tap / Mash (A) and (B)"],
+        "Tree of Woe Attack 1": ["(B)"],
+        "Tree of Woe Attack 2": ["(←/→/↑/↓) + (B)"],
+        "Running Tree of Woe Attack": ["(C-Down) + (B)"],
+      },
+      "Apron Attack": {
+        "Apron Attack to Inside": ["(B)"]
+      },
+      "Irish Whip Attack": {
+        "Irish Whip Attack": ["(B)"]
+      },
+      "Recovering Attack": {
+        "Ducking Attack": ["(B)"]
+      },
+      "Counter Attack": {
+        "Counter Punch": ["(R)"],
+        "Special Counter Punch": ["(R)"],
+        "Counter Kick 1": ["(A)"],
+        "Counter Kick 1": ["(B)"],
+        "Special Counter Kick": ["(R)"]
+      },
+    },
     "Grappling": {
       "Front Grapple": {
         "Front Weak Grapple": {
-          "A": [],
-          "←/→ + A": [],
-          "↑ + A": [],
-          "↓ + A": [],
-          "B": [],
-          "←/→ + B": [],
-          "↑ + B": [],
-          "↓ + B": []
+          "Front Weak Grapple 1": ["(A)"],
+          "Front Weak Grapple 2": ["(←/→) + (A)"],
+          "Front Weak Grapple 3": ["(↑) + (A)"],
+          "Front Weak Grapple 4": ["(↓) + (A)"],
+          "Front Weak Grapple 5": ["(B)"],
+          "Front Weak Grapple 6": ["(←/→) + (B)"],
+          "Front Weak Grapple 7": ["(↑) + (B)"],
+          "Front Weak Grapple 8": ["(↓) + (B)"]
         },
         "Front Strong Grapple": {
-          "A": [],
-          "←/→ + A": [],
-          "↑ + A": [],
-          "↓ + A": [],
-          "B": [],
-          "←/→ + B": [],
-          "↑ + B": [],
-          "↓ + B": [],
-          "Control Stick (Finisher)": []
+          "Front Strong Grapple 1": ["(A)"],
+          "Front Strong Grapple 2": ["(←/→) + (A)"],
+          "Front Strong Grapple 3": ["(↑) + (A)"],
+          "Front Strong Grapple 4": ["(↓) + (A)"],
+          "Front Strong Grapple 5": ["(B)"],
+          "Front Strong Grapple 6": ["(←/→) + (B)"],
+          "Front Strong Grapple 7": ["(↑) + (B)"],
+          "Front Strong Grapple 8": ["(↓) + (B)"],
+          "Front Special Grapple": ["(Control Stick)"]
         },
-        "Reversals": {
-          "Front Weak Grapple Counter": [],
-          "Front Strong Grapple Counter": []
-        }
       },
       "Back Grapple": {
         "Back Weak Grapple": {
-          "A": [],
-          "←/→/↑/↓ + A": [],
-          "B": [],
-          "←/→/↑/↓ + B": []
+          "Back Weak Grapple 1": ["(A)"],
+          "Back Weak Grapple 2": ["←/→/↑/↓ + (A)"],
+          "Back Weak Grapple 3": ["(B)"],
+          "Back Weak Grapple 4": ["←/→/↑/↓ + (B)"]
         },
         "Back Strong Grapple": {
-          "A": [],
-          "←/→/↑/↓ + A": [],
-          "B": [],
-          "←/→/↑/↓ + B": [],
-          "Control Stick (Finisher)": []
+          "Back Strong Grapple 1": ["(A)"],
+          "Back Strong Grapple 2": ["←/→/↑/↓ + (A)"],
+          "Back Strong Grapple 3": ["(B)"],
+          "Back Strong Grapple 4": ["←/→/↑/↓ + (B)"],
+          "Back Special Grapple": ["(Control Stick)"]
         },
-        "Reversals": {
-          "Back Weak Grapple Counter": [],
-          "Back Strong Grapple Counter": []
-        }
-      }
-    },
-    "Striking": {
-      "Weak Striking (Tap B)": {
-        "Closer": {
-          "B": [],
-          "(←/→/↑/↓) + B": []
-        },
-        "Further": {
-          "B": [],
-          "(←/→/↑/↓) + B": []
-        }
       },
-      "Strong Striking (Hold B)": {
-        "Closer": {
-          "B": [],
-          "(←/→/↑/↓) + B": [],
-          "(A + B)": [],
-          "(←/→/↑/↓) + (A + B)": []
-        },
-        "Further": {
-          "B": [],
-          "(←/→/↑/↓) + B": [],
-          "(A + B)": [],
-          "(←/→/↑/↓) + (A + B)": []
-        }
-      }
-    },
-    "Recovering Attack": {
-      "Recovering/Ducking Attack": {
-        "B": []
-      }
-    },
-    "Striking Counters": {
-      "Counter Punch": [],
-      "Special Counter Punch": [],
-      "Counter Kick (A)": [],
-      "Counter Kick (B)": [],
-      "Special Counter Kick": []
-    },
-    "Running": {
-      "Running Strike": {
-        "Run + B": [],
-        "Run + (←/→/↑/↓) + B": [],
-        "Run + (A+B)": [],
-        "Run + (←/→/↑/↓) + (A+B)": []
+      "Reversals": {
+        "Back Weak Grapple Counter": [],
+        "Back Strong Grapple Counter": []
+      },
+      "Irish Whip Grapple": {
+        "Front Weak Grapple 1": ["(Tap A)"],
+        "Front Weak Grapple 2": ["(Hold A)"],
+        "Front Strong Grapple 1": ["(Tap A)"],
+        "Front Strong Grapple 2": ["(Hold A)"],
+        "Front Special Grapple": ["(Control Stick)"]
       },
       "Running Grapple": {
-        "Run + A (Front)": [],
-        "Run + A (Back)": []
+        "Running Front Grapple": ["(C-Down) + (A)"],
+        "Running Back Grapple": ["(C-Down) + (A)"]
       },
-      "Running Ground Attack": {
-        "Facing Up": [],
-        "Facing Down": [],
-        "Sitting Up": [],
-        "Sitting Down": []
+      "Front Turnbuckle Grapple": {
+        "Front Weak Grapple 1": ["(A)"],
+        "Front Weak Grapple 2": ["(B)"],
+        "Front Strong Grapple 1": ["(A)"],
+        "Front Strong Grapple 2": ["(B)"],
+        "Front Special Grapple": ["(Control Stick)"],
+        "Front Counter Grapple": []
       },
-      "Running Evasion": {
-        "Run + Block (R)": [],
-        "Run + Evade (L)": []
-      }
-    },
-    "Ground": {
-      "Strike (B)": {
-        "Facing Up": [],
-        "Facing Down": [],
-        "Sitting Up": [],
-        "Sitting Down": []
+      "Back Turnbuckle Grapple": {
+        "Back Weak Grapple 1": ["(A)"],
+        "Back Weak Grapple 2": ["(B)"],
+        "Back Strong Grapple 1": ["(A)"],
+        "Back Strong Grapple 2": ["(B)"],
+        "Back Special Grapple": ["(Control Stick)"],
+        "Back Counter Grapple": []
       },
-      "Grapple (A)": {
-        "Facing Up": [],
-        "Facing Down": [],
-        "Sitting Up": [],
-        "Sitting Down": []
-      }
-    },
-    "Turnbuckle": {
-      "Turnbuckle Attack": {
-        "B": [],
-        "(←/→/↑/↓) + B": [],
-        "Run + B": [],
-        "Run + (A+B)": []
-      },
-      "Corner Counter": [],
-      "Tree of Woe Attack": {
-        "B": [],
-        "(←/→/↑/↓) + B": [],
-        "Run + B": []
-      },
-      "Turnbuckle Grapple": {
-        "Front Turnbuckle Grapple": {
-          "Front Weak Turnbuckle Grapple": {
-            "A": [],
-            "B": []
-          },
-          "Front Strong Turnbuckle Grapple": {
-            "A": [],
-            "B": [],
-            "Control Stick (Finisher)": []
-          }
-        },
-        "Back Turnbuckle Grapple": {
-          "Back Weak Turnbuckle Grapple": {
-            "A": [],
-            "B": []
-          },
-          "Back Strong Turnbuckle Grapple": {
-            "A": [],
-            "B": [],
-            "Control Stick (Finisher)": []
-          }
-        },
-        "Counter Turnbuckle Grapple": {
-          "Front Counter Turnbuckle Grapple": [],
-          "Back Counter Turnbuckle Grapple": []
-        }
-      },
-      "Flying Attack": {
-        "Opponent Inside Ring": {
-          "Standing Opponent": [],
-          "Laying Opponent": [],
-          "Standing Opponent (SPECIAL)": [],
-          "Laying Opponent (SPECIAL)": []
-        },
-        "Opponent Outside Ring": {
-          "Standing Opponent": [],
-          "Laying Opponent": [],
-          "Standing Opponent (SPECIAL)": [],
-          "Laying Opponent (SPECIAL)": []
-        }
-      },
-      "Bret's Rope Move": [],
-      "Turnbuckle Taunt": {
-        "Corner Taunt": [],
-        "Top Turnbuckle Taunt": []
-      }
-    },
-    "Ringside": {
-      "Grapple to Apron": {
-        "Weak Grapple": [],
-        "Strong Grapple": [],
-        "Special Grapple": [],
-        "Counter Grapple": []
-      },
-      "Rope Inside Attack": {
-        "Press A up against ropes": [],
-        "Run at ropes and press A": []
-      },
-      "Flying Attack to Outside": {
-        "A": [],
-        "Run + A": [],
-        "Run + (←/→/↑/↓) + A": []
-      },
-      "Running Diving Taunt": {
-        "Run + Control Stick": []
-      },
-      "Rebound Flying Attack": {
-        "A": []
-      }
-    },
-    "Apron": {
-      "Apron Attack": {
-        "To Inside": [],
-        "To Outside": []
-      },
-      "Grapple from Apron": {
+      "Apron Grapple": {
+        "Weak Grapple to Apron": [],
+        "Strong Grapple to Apron": [],
+        "Special Grapple to Apron": [],
         "Weak Grapple from Apron": [],
         "Strong Grapple from Apron": [],
         "Special Grapple from Apron": [],
-        "Counter Grapple from Apron": []
+        "Counter Grapple from Apron": [],
+        "Counter Grapple to Apron"
       },
-      "Flying Attack from Apron to Outside": {
-        "A": [],
-        "Run + A": []
-      },
-      "Flying Attack from Apron to Ring": {
-        "A (standing opponent)": [],
-        "A (laying opponent)": [],
-        "A (with SPECIAL)": []
+      "Dounble Team": {
+        "Front Grapple": [],
+        "Back Grapple": [],
+        "Sandwich Grapple": [],
+        "Irish Whip Grapple": [],
+        "Counter Attack": []        
       }
     },
-    "Irish Whip": {},
-    "Double Team": {},
-    "Walking": {}
+    "Ground": {
+      "Upper Body Grapple": {
+        "Facing Up": ["(A)"],
+        "Facing Down": ["(A)"],
+        "Sitting Up": ["(A)"],
+        "Sitting Down": ["(A)"],
+        "Facing Up (Special)": ["(A)"],
+        "Facing Down (Special)": ["(A)"]
+      },
+      "Lower Body Grapple": {
+        "Facing Up": ["(A)"],
+        "Facing Down": ["(A)"],
+        "Facing Up (Special)": ["(A)"],
+        "Facing Down (Special)": ["(A)"]
+      },
+      "Ground Attack": {
+        "Facing Up": ["(B)"],
+        "Facing Down": ["(B)"],
+        "Sitting Up": ["(B)"],
+        "Sitting Down": ["(B)"]
+      },
+      "Running Ground Attack": {
+        "Facing Up": ["(C-Down) + (B)"],
+        "Facing Up (Special)": ["(C-Down) + (B)"],
+        "Facing Down": ["(C-Down) + (B)"],
+        "Sitting Up": ["(C-Down) + (B)"],
+        "Sitting Down": ["(C-Down) + (B)"]
+      }
+    },
+    "Flying": {
+      "Flying Attack": {
+      "Standing Opponent": [],
+      "Standing Opponent to Outside": [],
+      "Standing Opponend (Special)": [],
+      "Laying Opponent": [],
+      "Laying Opponent to Outside": [],
+      "Laying Opponend (Special)": [],
+      },
+      "Turnbuckle Inside Attack (Bret's Rope)": {
+        "Turnbuckle Inside Attack": ["(A)"]
+      },
+      "Flying Attack to Outside": {
+        "Flying Attack": ["(A)"],
+        "Running Diving Attack 1": ["(C-Down) + (A)"],
+        "Running Diving Attack 2": ["(←/→/↑/↓ + C-Down) + (A)"]
+      },
+      "Running Diving Taunt": {
+        "Running Diving Taunt": ["(C-Down) + (Control Stick)"]
+      },
+      "Flying Attack From Apron": {
+        "Flying Attack to Outside": ["(A)"],
+        "Running Flying Attack to Outside": ["(C-Down) + (A)"],
+        "Flying Attack To Standing Opponent Inside": ["(A)"],
+        "Flying Attack To Laying Opponent Inside": ["(A)"],
+        "Flying Attack To Standing Opponent Inside (Special)": ["(A)"]
+      },
+      "Rope Inside Attack": {
+        "Rope Inside Attack": ["(A)"]
+      },
+      "Rebound Flying Attack": {
+        "Rebound Flying Attack": ["(C-Down) + A"]
+      },
+      "Double Team Flying Attack": {
+        "From Top Turnbuckle": ["(C-Down) torwards corner"],
+        "From Top Turnbuckle to Outside": ["(C-Down) torwards corner"],
+        "From Apron": ["(A)"]
+      }
+    },
+    "Taunt": {
+      "Taunt 1": [],
+      "Taunt 2": [],
+      "Taunt 3": [],
+      "Ducking Taunt": [],
+      "Special Taunt": [],
+      "Celebration Taunt": [],
+      "Corner Taunt": [],
+      "Turnbuckle Taunt": [],
+      "Apron Taunt": [],
+      "Irish Whip Evasion": []
+    }
   }
 }
 
