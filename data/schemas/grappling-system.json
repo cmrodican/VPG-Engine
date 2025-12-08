@@ -168,12 +168,12 @@
     },
     "Flying": {
       "Flying Attack": {
-      "Standing Opponent": [],
-      "Standing Opponent to Outside": [],
-      "Standing Opponend (Special)": [],
-      "Laying Opponent": [],
-      "Laying Opponent to Outside": [],
-      "Laying Opponend (Special)": [],
+      "Standing Opponent": ["(C-Down) + (D-Pad) Torwards corner"],
+      "Standing Opponent to Outside": ["(C-Down) + (D-Pad) Torwards corner"],
+      "Standing Opponend (Special)": ["(C-Down) + (D-Pad) Torwards corner"],
+      "Laying Opponent": ["(C-Down) + (D-Pad) Torwards corner"],
+      "Laying Opponent to Outside": ["(C-Down) + (D-Pad) Torwards corner"],
+      "Laying Opponend (Special)": ["(C-Down) + (D-Pad) Torwards corner"],
       },
       "Turnbuckle Inside Attack (Bret's Rope)": {
         "Turnbuckle Inside Attack": ["(A)"]
@@ -200,22 +200,22 @@
         "Rebound Flying Attack": ["(C-Down) + A"]
       },
       "Double Team Flying Attack": {
-        "From Top Turnbuckle": ["(C-Down) torwards corner"],
-        "From Top Turnbuckle to Outside": ["(C-Down) torwards corner"],
+        "From Top Turnbuckle": ["(C-Down) + (D-Pad) Torwards corner"],
+        "From Top Turnbuckle to Outside": ["(C-Down) + (D-Pad) Torwards corner"],
         "From Apron": ["(A)"]
       }
     },
     "Taunt": {
-      "Taunt 1": [],
-      "Taunt 2": [],
-      "Taunt 3": [],
-      "Ducking Taunt": [],
-      "Special Taunt": [],
-      "Celebration Taunt": [],
-      "Corner Taunt": [],
-      "Turnbuckle Taunt": [],
-      "Apron Taunt": [],
-      "Irish Whip Evasion": []
+      "Taunt 1": ["Control Stick Up"],
+      "Taunt 2": ["Control Stick Left"],
+      "Taunt 3": ["Control Stick Right"],
+      "Ducking Taunt": ["Control Stick Down"],
+      "Special Taunt": ["Control Stick"],
+      "Celebration Taunt": ["n/a"],
+      "Corner Taunt": ["Control Stick"],
+      "Turnbuckle Taunt": ["Control Stick"],
+      "Apron Taunt": ["n/a"],
+      "Irish Whip Evasion": ["(C-Left) + (R)"]
     }
   }
 }
