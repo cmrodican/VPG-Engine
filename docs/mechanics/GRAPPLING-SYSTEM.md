@@ -79,15 +79,15 @@ Strong grapples typically:
 Players can execute **4 different moves** from a back weak grapple:
 
 1. A  
-2. ←/→/↑/↓ + A  
+2. ←/→/↑/↓ + A
 3. B  
 4. ←/→/↑/↓ \+ B  
 
 *Example from The Rock:*
-- Neutral + Tap A = Falling Back Drop
-- Up/Down + Tap A = Surfboard Stretch
-- Left + Tap A = Shin Breaker
-- Right + Tap A = Atomic Drop
+- A = Falling Back Drop
+- ←/→/↑/↓ + A = Falling Back Drop
+- B = Atomic Drop
+- ←/→/↑/↓ + B = Atomic Drop
 
 #### Back Strong Grapple Moves (Hold A)
 Players can execute **4 different moves** from a back strong grapple:
